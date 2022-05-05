@@ -8,8 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  *  服务类
  * </p>
  *
- * @author 关注公众号：MarkerHub
- * @since 2020-05-25
+ * @author：Elsa_zlt
  */
 public interface BlogService extends IService<Blog> {
 
